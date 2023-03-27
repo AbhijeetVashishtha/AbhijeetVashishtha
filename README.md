@@ -7,10 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeetvashishtha&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetvashishtha" /> </p>
 
-- 🔭 I’m currently working on **Problem solving skills**
-
-- 🌱 I’m currently learning **Data Structures and Backend Technologies like Nodejs & Expressjs**
-
 - 👨‍💻 All of my projects are available at [https://github.com/AbhijeetVashishtha](https://github.com/AbhijeetVashishtha)
 
 - 💬 Ask me about **Backend Technologies Nodejs and AWS deployment**

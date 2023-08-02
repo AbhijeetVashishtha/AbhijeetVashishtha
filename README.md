@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abhijeetvashishth13@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PXrka5vR1U5s20zbx0MbG2CmY88GzJse/view?usp=share_link](https://drive.google.com/file/d/1PXrka5vR1U5s20zbx0MbG2CmY88GzJse/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1aYPPjk13yuPC2OYy7lJMKnH38Jm8Gn50](https://drive.google.com/drive/folders/1aYPPjk13yuPC2OYy7lJMKnH38Jm8Gn50)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
